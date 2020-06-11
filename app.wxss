@@ -1,0 +1,19 @@
+@import "./styles/iconfont.wxss";
+page,image,swiper,swiper-item,text,view,navigator{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* 
+    在less中 存在 变量
+    在原生css和wxss中也支持变量
+*/
+page{
+    /* 定义主题颜色 */
+    --themeColor:#eb4450;
+    /* 配置字体大小 */
+    font-size: 28rpx;
+}
+image{
+    width: 100%;
+}

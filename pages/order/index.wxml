@@ -1,0 +1,3 @@
+<Tabs tabs="{{tabs}}" bindtabsItemChange="handleTabsItemChange" class="order_tab">
+    内容(*￣︶￣)
+</Tabs>
